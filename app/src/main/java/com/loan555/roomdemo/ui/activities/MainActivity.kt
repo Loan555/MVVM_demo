@@ -17,7 +17,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
-
+//main ??
 class MainActivity : AppCompatActivity() {
     private val noteViewModel: NoteViewModel by lazy {
         ViewModelProvider(
